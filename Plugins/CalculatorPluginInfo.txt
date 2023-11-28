@@ -1,0 +1,10 @@
+Number, Opperator, Number
+
+Example:
+10 + 10
+OR
+10 - 10
+OR
+10 x 10
+OR
+10 / 10

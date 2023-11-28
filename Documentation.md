@@ -38,7 +38,7 @@ WinAssist-Plugins sind Erweiterungsmodule, die die Funktionalität der WinAssist
 
 ### ICommandPlugin-Schnittstelle
 
-Plugins müssen die `ICommandPlugin`-Schnittstelle implementieren. Diese Schnittstelle stellt sicher, dass grundlegende Methoden für die Plugin-Integration vorhanden sind.
+Plugins müssen die `ICommandPlugin`-Schnittstelle implementieren. Diese Schnittstelle stellt sicher, dass grundlegende Methoden für die Plugin-Integration vorhanden sind. Die [WinAssist-PluginLibrary.dll](https://github.com/lulv3z/WinAssist-PluginLibrary/releases/tag/V.1) steht für Entwickler zur Verfügung, um den Plugin-Entwicklungsprozess zu vereinfachen.
 
 ```csharp
 public interface ICommandPlugin

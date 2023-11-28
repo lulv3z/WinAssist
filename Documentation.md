@@ -6,22 +6,22 @@ Willkommen zur WinAssist Plugin-Entwicklerdokumentation! Diese Dokumentation bie
 
 ## Inhaltsverzeichnis
 
-1. [Grundlagen](#grundlagen)
-   1.1. [Was sind WinAssist-Plugins?](#was-sind-winassist-plugins)
-   1.2. [Voraussetzungen](#voraussetzungen)
-   
-2. [Plugin-Entwicklung](#plugin-entwicklung)
-   2.1. [ICommandPlugin-Schnittstelle](#icommandplugin-schnittstelle)
-   2.2. [Namenskonventionen](#namenskonventionen)
-   2.3. [Lebenszyklus von Plugins](#lebenszyklus-von-plugins)
-   2.4. [Behandlung von Ausnahmen](#behandlung-von-ausnahmen)
-   
-3. [Plugin-Integration](#plugin-integration)
-   3.1. [Ordner für Plugins](#ordner-für-plugins)
-   3.2. [Laden von Plugins](#laden-von-plugins)
-   3.3. [Berechtigungen und Sicherheit](#berechtigungen-und-sicherheit)
+1. [Grundlagen](#grundlagen)<br>
+   1.1. [Was sind WinAssist-Plugins?](#was-sind-winassist-plugins)<br>
+   1.2. [Voraussetzungen](#voraussetzungen)<br>
 
-4. [Beispiel-Plugin](#beispiel-plugin)
+2. [Plugin-Entwicklung](#plugin-entwicklung)<br>
+   2.1. [ICommandPlugin-Schnittstelle](#icommandplugin-schnittstelle)<br>
+   2.2. [Namenskonventionen](#namenskonventionen)<br>
+   2.3. [Lebenszyklus von Plugins](#lebenszyklus-von-plugins)<br>
+   2.4. [Behandlung von Ausnahmen](#behandlung-von-ausnahmen)<br>
+   
+3. [Plugin-Integration](#plugin-integration)<br>
+   3.1. [Ordner für Plugins](#ordner-für-plugins)<br>
+   3.2. [Laden von Plugins](#laden-von-plugins)<br>
+   3.3. [Berechtigungen und Sicherheit](#berechtigungen-und-sicherheit)<br>
+
+4. [Beispiel-Plugin](#beispiel-plugin)<br>
    
 ## Grundlagen
 
